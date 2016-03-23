@@ -42,7 +42,7 @@ ExpiresDefault "access 1 month"
       Header set Cache-Control "max-age=604800, public"
   </FilesMatch>
   <FilesMatch "\.(x?html?|php)$">
-      Header set Cache-Control "max-age=600, private, must-revalidate"
+      Header set Cache-Control "max-age=604800, private, must-revalidate"
   </FilesMatch>
 </IfModule>
 
