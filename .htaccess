@@ -23,6 +23,11 @@ ExpiresByType application/pdf "access 1 month"
 ExpiresByType text/x-javascript "access 1 month"
 ExpiresByType application/x-shockwave-flash "access 1 month"
 ExpiresByType image/x-icon "access 1 year"
+ExpiresByType http://js.leadin.com/js/v1/2056572.js "access 1 month"
+ExpiresByType http://s7.addthis.com/js/300/addthis_widget.js "access 1 month"
+ExpiresByType http://www.googletagmanager.com/gtm.js?id=GTM-M8BXLD "access 1 month"
+ExpiresByType http://stats.g.doubleclick.net/dc.js "access 1 month"
+ExpiresByType http://www.google-analytics.com/analytics.js "access 1 month"
 ExpiresDefault "access 1 month"
 </IfModule>
 
