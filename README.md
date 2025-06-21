@@ -152,7 +152,7 @@ _Julio 2019 – Agosto 2020_
 ## 📫 Contacto
 
 - **Sitio Web / Portafolio**: [alexballera.com](http://alexballera.com)  
-- **Email**: alex.ballera@gmail.com  
+- **Email**: alexballera@gmail.com  
 - **LinkedIn**: [linkedin.com/in/alexballera](https://www.linkedin.com/in/alexballera)  
 - **Twitter**: [@alexballera](https://twitter.com/alexballera)  
 
